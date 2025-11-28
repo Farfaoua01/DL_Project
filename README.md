@@ -1,6 +1,6 @@
 # Projet Deep Learning (Transfer Learning)
 
-# 🧠 Brain Tumor Classification using DenseNet121
+#  Brain Tumor Classification using DenseNet121
 Projet Deep Learning – Transfer Learning – IRM Cérébrales
 
 Ce projet implémente un modèle de **classification binaire** (tumeur / normal) à partir d’images IRM, en utilisant l’architecture **DenseNet121** pré-entraînée sur ImageNet.  
